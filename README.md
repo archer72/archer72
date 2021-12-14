@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yogesh
 - 👀 I’m interested in Data Science and Finance
-- 🌱 I’m currently studying at IIITM gwalior
+- 🌱 I’m currently studying at IIITM gwalior (B.Tech + MBA)
 
 <!---
 archer72/archer72 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

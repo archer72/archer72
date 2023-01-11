@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yogesh
-- 👀 I’m interested in Data Science and Finance
+- 👀 I’m interested in Backend development, Data Science and Finance
 - 🌱 I’m currently studying at IIITM gwalior (B.Tech + MBA)
 
 <!---
